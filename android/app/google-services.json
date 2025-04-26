@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "602783046019",
+    "project_id": "gamewise-6d228",
+    "storage_bucket": "gamewise-6d228.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602783046019:android:a643747cf18db284ae3eb6",
+        "android_client_info": {
+          "package_name": "com.example.gamewise_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602783046019-5333cekolocth3ntgnbcgdummml1kg4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEjcrF1ZoMYgsGw2ObJA84Orht5ETGpe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602783046019-5333cekolocth3ntgnbcgdummml1kg4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602783046019-vkdgoem30bgnqvgkc5c3pjtvm53kadru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gamewiseWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
