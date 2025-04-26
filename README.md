@@ -1,9 +1,5 @@
 # Gamewise App
 
-> Made with ❤️ using Flutter and Firebase
-
----
-
 ## Overview
 
 **Gamewise** is a Flutter application that allows users to **track**, **review**, and **manage** their video games.  
