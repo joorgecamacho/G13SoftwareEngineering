@@ -79,4 +79,4 @@ git clone https://github.com/yourusername/gamewise.git
 cd gamewise
 flutter pub get
 flutterfire configure
-flutter run
+flutter run -d chrome
